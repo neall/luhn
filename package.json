@@ -1,0 +1,14 @@
+{
+  "name": "luhn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Neal Lindsay <neal.lindsay@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "teenytest"
+  },
+  "devDependencies": {
+    "teenytest": "^5.0.2"
+  }
+}
